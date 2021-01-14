@@ -1,0 +1,2 @@
+com/credine/backend/BackendApplicationTests.java
+ com.credine.backend.BackendApplicationTests
